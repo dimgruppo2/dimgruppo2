@@ -14,4 +14,4 @@ newmtl Material__43
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\ragaz\Downloads\FOTO QR CODE\FOTO QR CODE\CHASSIS.jpg
+map_kd Chassis.jpg
